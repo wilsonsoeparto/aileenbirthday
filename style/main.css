@@ -83,7 +83,7 @@ body {
 }
 
 .five .idea-5 {
-  font-size: 4rem;
+  font-size: 3.5rem;
 }
 
 .idea-5 span,
@@ -248,7 +248,7 @@ body {
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 32%;
+    left: 25%;
   }
 }
 
@@ -262,7 +262,7 @@ body {
   }
 
   .text-box .fake-btn {
-    bottom: -38px;
+    bottom: -42px;
     right: 5px;
   }
 
